@@ -5,7 +5,7 @@
     // 추가한 내용
     "composite": true,
     "declaration": true,
-    "emitDeclarationOnly": false,
+    "emitDeclarationOnly": true,
     "noEmit": false,
     /* Linting */
     "strict": true,
